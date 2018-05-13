@@ -1,0 +1,9 @@
+Website ini belum sempurna mohon maaf masih 70%.
+Terutama Untuk Tampilan user.
+
+jika ingin login ke admin atau karyawan silahkan ketik link ini: localhost:8000/login
+
+username:admin@gmai.com
+password:rahasia
+
+Terimakasih........
